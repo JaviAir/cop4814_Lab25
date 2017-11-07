@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 //i added or modified this file during step 7.
 
-//step 10 master branch edit.
+//step 10 part 2 edit in branch 1.
 
+//step 10 master branch edit.
 
 namespace GameLibLab2
 {
