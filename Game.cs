@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//i added or modified this file during step 7.
+
 namespace GameLibLab2
 {
     public class Game
